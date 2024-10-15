@@ -22,7 +22,7 @@ export abstract class Store {
 
     }
     
-    addChats(userId : UserId , room : string , name : string , message : string) {
+    addChats(userId : UserId , room : string , name : string , message : string , chatID : string) {
 
     }
 
